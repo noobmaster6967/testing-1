@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #000000ff;
-  color: #333;
+  color: #442626ff;
 }
 
 header {
@@ -14,7 +14,7 @@ header {
 }
 
 nav a {
-  color: black;
+  color: blue;
   margin: 0 10px;
   text-decoration: none;
 }
@@ -24,7 +24,7 @@ main {
 }
 
 footer {
-  background-color: #333;
+  background-color: #0a0707ff;
   color: white;
   text-align: center;
   padding: 10px;
