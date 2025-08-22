@@ -4,6 +4,7 @@ body {
   padding: 0;
   background-color: #000000ff;
   color: #442626ff;
+  background-image: url("http://example.com/images/my-image.png")
 }
 
 header {
